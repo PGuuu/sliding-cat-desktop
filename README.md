@@ -12,7 +12,7 @@ desktop, not just inside browser pages.
 
 ## Download
 
-[sliding-cat-desktop-v0.1.1.zip](dist/sliding-cat-desktop-v0.1.1.zip)
+[sliding-cat-desktop-v0.1.2.zip](dist/sliding-cat-desktop-v0.1.2.zip)
 
 ## Run on Windows
 
@@ -46,6 +46,9 @@ global pointer position and moves a transparent always-on-top window near the
 cursor when movement is downward.
 
 No user data is collected, transmitted, or stored.
+
+The desktop image assets use hard transparency to avoid green fringe artifacts
+on transparent desktop windows.
 
 ## Make A Native App
 
