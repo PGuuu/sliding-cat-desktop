@@ -1,15 +1,18 @@
 # Sliding Cat Desktop
 
 Sliding Cat Desktop is the non-browser version of Sliding Cat Cursor. It runs as
-a small desktop overlay on Windows or macOS and shows the original illustrated
-cat when your mouse cursor moves downward.
+a small desktop overlay on Windows or macOS and shows a cutout sliding cat when
+your mouse cursor moves downward.
+
+This open-source GitHub build uses the cutout cat image from the original viral
+photo. Please verify image rights before commercial redistribution.
 
 This is separate from the Chrome extension. It works on the operating system
 desktop, not just inside browser pages.
 
 ## Download
 
-[sliding-cat-desktop-v0.1.0.zip](dist/sliding-cat-desktop-v0.1.0.zip)
+[sliding-cat-desktop-v0.1.1.zip](dist/sliding-cat-desktop-v0.1.1.zip)
 
 ## Run on Windows
 
